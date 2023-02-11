@@ -1,12 +1,14 @@
 # MLA1
 Assignment 1
 
-Libraries: 
-sklearn 
-MatplotLib
-Seaborn 
+1. Install the following libraries in your terminal: Libraries: 
+conda install pandas
+conda install numpy 
+conda install scipy
+conda install scikit-learn 
+conda install matplotlib 
+conda install seaborn 
 
-There is no need to install libraries if python is installed on the machine. 
-Just clone the repository, open the folder containing the jpnb file in terminal and run "jupyter notebook command", then press "run all cells".
+2. Open the jnnb file in terminal and run "jupyter notebook command", then select all cells press "run".
 
 Repository location: https://github.com/AleksandraPlamenac/MLA1/
