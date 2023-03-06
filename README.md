@@ -1,7 +1,7 @@
-# MLA1
-Assignment 1
+# MLA2
+Assignment 2
 
-Repository location: https://github.com/AleksandraPlamenac/MLA1/
+Repository location: https://github.com/AleksandraPlamenac/MLA2
 
 1. Download the repository
 
